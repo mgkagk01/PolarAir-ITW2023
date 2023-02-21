@@ -13,8 +13,5 @@ Cite this paper:
   year={2023},
   journal={arXiv preprint arXiv:2301.10110},
   primaryClass={cs.IT}
-  volume={},
-  number={},
-  pages={1-5},
-  doi={10.1109/SPAWC51304.2022.9833940}}
+}
   
