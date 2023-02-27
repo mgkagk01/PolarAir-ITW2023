@@ -3,7 +3,10 @@
 The source code of the algorithm PolarAir. 
 
 
-Link to this paper: https://arxiv.org/abs/2301.10110
+This paper has been accepted for presentation at the 2023 IEEE Information Theory Workshop (ITW)
+
+
+Link to this the arxiv version of the paper: https://arxiv.org/abs/2301.10110
 
 Cite this paper: 
 
