@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 22 18:17:24 2021
-
-Class to encode and decode polar codes
-
-@author: Similar kind of code was first present in the following course by
-
-Michail Gkagkos modified some part of the code.
-"""
 import numpy as np
 import numpy.matlib
 
