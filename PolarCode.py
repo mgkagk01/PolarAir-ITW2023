@@ -207,8 +207,7 @@ class PolarCode():
                         uHatR = np.squeeze(uHat[tempC * nodeR:tempC * (nodeR + 1), :, dC])
                         # uHatR = np.squeeze(uHat[:,dC ,tempC*nodeR:tempC*(nodeR+1)])
 
-                        if (len(uHatL) != len(uHatR)):
-                            print('Hello')
+
 
                         uHat[temp * node:temp * (node + 1), :, depth] = np.vstack((((uHatL + uHatR) % 2), uHatR))
 
